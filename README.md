@@ -15,4 +15,6 @@ COOKING:
 IN 2025
 ----
 24 dec: hello world
+----
 25 dec: user input, array
+----
