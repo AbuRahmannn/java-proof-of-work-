@@ -1,4 +1,5 @@
 ☕ JAVA (PROOF OF WORK):
+
 This repository is a proof of my Java learning journey and hands-on practice.
 It contains all the concepts, programs, and mini-implementations I’ve completed while learning Java, organized topic-wise for clarity and consistency.
 
