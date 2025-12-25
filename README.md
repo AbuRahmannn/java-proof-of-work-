@@ -9,3 +9,9 @@ Track my progress in Java
 Showcase practical understanding (not just theory)
 
 Build a strong foundation for interviews and real-world projects
+
+COOKING:
+2025
+----
+24 dec: hello world
+25 dec: user input, array
