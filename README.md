@@ -22,3 +22,5 @@ IN 2025
 ----
 28 dec: taking user input with array
 ----
+29 dec: methods
+----
