@@ -22,5 +22,5 @@ IN 2025
 ----
 28 dec: taking user input with array
 ----
-29 dec: arrays revise, methods
+29 dec: arrays revise, methods introduction, while loop revise
 ----
