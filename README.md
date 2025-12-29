@@ -20,3 +20,5 @@ IN 2025
 ----
 26 dec: array, multi dimentional array
 ----
+28 dec: taking user input with array
+----
