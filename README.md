@@ -24,5 +24,5 @@ IN 2025
 ----
 29 dec: arrays revise, methods introduction, while loop revise
 ----
-30 dec: Oops - constructor, non-parameterized constructor, parameterized constructor, this keyword
+30 dec: Oops - constructor, non-parameterized constructor, parameterized constructor, copy constructor, this keyword
 ----
