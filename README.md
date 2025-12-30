@@ -24,5 +24,5 @@ IN 2025
 ----
 29 dec: arrays revise, methods introduction, while loop revise
 ----
-30 dec: Oops
+30 dec: Oops - constructor
 ----
